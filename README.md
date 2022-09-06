@@ -2,7 +2,7 @@
 
 I'm freejishu, nice to meet you.
 
-I have worked for , NodeBB-China, MyPCQQ, and is operating a blog.
+I have worked for NodeBB-China, MyPCQQ, and is operating a blog.
 - I’m currently working on Hitokoto-osc and my Blog, which you can visit at <https://www.freejishu.com>.
 
 
