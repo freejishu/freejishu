@@ -13,4 +13,4 @@ You can contact me through these channels if you have any questions:
 *  QQ: 442971704
 
 ![alt](https://github-readme-stats.vercel.app/api?username=freejishu&count_private=true&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freejishu&hide=c,c%2B%2B&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=freejishu&hide=c,c%2B%2B&layout=compact)
